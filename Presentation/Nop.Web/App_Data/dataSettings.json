@@ -1,0 +1,5 @@
+{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=PCKAS-3\\SQLEXPRESS;Initial Catalog=OFFP;Integrated Security=True;Persist Security Info=False",
+  "RawDataSettings": {}
+}
